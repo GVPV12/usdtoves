@@ -13,7 +13,7 @@ Descarga / Download: https://github.com/GVPV12/usdtoves/releases/download/v2/Con
 
 ---
 
-## 🇪🇸 Español 🇪🇸
+## Español
 
 ### ¿Qué es esta aplicación?
 Esta app es una herramienta fácil de usar para:
@@ -48,7 +48,7 @@ Esta app es una herramienta fácil de usar para:
 
 ---
 
-## 🇬🇧 English 🇬🇧
+## English
 
 ### What is this application?
 This app is an easy-to-use tool for:
