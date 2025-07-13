@@ -1,5 +1,7 @@
 # 💰 Convertidor de Moneda 💰
 
+Descarga / Download: https://github.com/GVPV12/usdtoves/releases/download/v2/ConvertidorMonedav2.exe
+
 ¡Bienvenido al Convertidor de Moneda! Esta es una sencilla aplicación de escritorio (compatible con Windows) para convertir valores entre el Dólar Americano (USD) y el Bolívar Venezolano (VES) utilizando la tasa oficial del Banco Central de Venezuela (BCV). También te alegrará el día con una frase motivacional.
 
 <img width="402" height="632" alt="Captura2323" src="https://github.com/user-attachments/assets/0fbb9a71-c93c-482b-ba6c-7a427d676e41" />
